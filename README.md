@@ -1,7 +1,5 @@
 ### Hi there 👋
 
-https://jonatanaxe.tk/assets/img/avatar.jpg
-
 Jonatan Machado
 
 Develop new features, kill bugs, implement new concepts and technologies to improve code quality and project organization, good development practices in Magento Commerce and WordPress.
