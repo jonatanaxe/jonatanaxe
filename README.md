@@ -2,7 +2,9 @@
 
 Jonatan Machado
 
-Develop new features, kill bugs, implement new concepts and technologies to improve code quality and project organization, good development practices in Magento Commerce and WordPress.
+Develop Frontend end Backend new project, kill bugs, implement new concepts and technologies to improve code quality, good development practices in Magento 2 end Magento Cloud
+
+Magento, Magento Cloud
 
 <!--
 **jonatanaxe/jonatanaxe** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
