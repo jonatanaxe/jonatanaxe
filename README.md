@@ -4,11 +4,6 @@ Jonatan Machado
 
 Develop Frontend end Backend new project, kill bugs, implement new concepts and technologies to improve code quality, good development practices in Magento 2 end Magento Cloud
 
- - Magento
- - Magento Cloud
- - PHP
- - JavaScript
-
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on [DevEnvDevilbox](https://github.com/jonatanaxe/DevEnvDevilbox) 
@@ -21,8 +16,8 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: Unraveling the unknown
 
 ### Languages
-[![JavaScript](https://img.shields.io/badge/-JavaScript-000?&logo=JavaScript&logoColor=ddc508)](https://github.com/adamalston?tab=repositories&q=&type=&language=javascript)
-
+![JavaScript](https://img.shields.io/badge/-JavaScript-000?&logo=JavaScript&logoColor=ddc508)
+![AWS](https://img.shields.io/badge/-PHP-000?&logo=PHP&logoColor=FF9900)
 ### Technologies
 
 ![AWS](https://img.shields.io/badge/-AWS-000?&logo=Amazon-AWS&logoColor=FF9900)
