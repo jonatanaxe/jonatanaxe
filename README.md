@@ -29,6 +29,7 @@ Here are some ideas to get you started:
 ![Node.js](https://img.shields.io/badge/-Node.js-000?&logo=node.js)
 ![Npm](https://img.shields.io/badge/-Npm.js-000?&logo=Npm)
 ![Yarn](https://img.shields.io/badge/-Yarn-000?&logo=Yarn)
+![Webpack](https://img.shields.io/badge/-Webpack-000?&logo=Webpack)
 ![Git](https://img.shields.io/badge/-Git-000?&logo=Git)
 ![Redis](https://img.shields.io/badge/-Redis-000?&logo=Redis)
 ![Laravel](https://img.shields.io/badge/-Laravel-000?&logo=Laravel&logoColor=FFFFFF)
