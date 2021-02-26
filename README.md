@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 
 ### Languages
 ![JavaScript](https://img.shields.io/badge/-JavaScript-000?&logo=JavaScript&logoColor=ddc508)
-![AWS](https://img.shields.io/badge/-PHP-000?&logo=PHP&logoColor=FF9900)
+![AWS](https://img.shields.io/badge/-PHP-000?&logo=PHP)
 ### Technologies
 
 ![AWS](https://img.shields.io/badge/-AWS-000?&logo=Amazon-AWS&logoColor=FF9900)
