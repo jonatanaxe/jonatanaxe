@@ -17,13 +17,18 @@ Here are some ideas to get you started:
 
 ### Languages
 ![JavaScript](https://img.shields.io/badge/-JavaScript-000?&logo=JavaScript&logoColor=ddc508)
-![AWS](https://img.shields.io/badge/-PHP-000?&logo=PHP)
+![PHP](https://img.shields.io/badge/-PHP-000?&logo=PHP)
+![Sass](https://img.shields.io/badge/-Sass-000?&logo=Sass)
+![Less](https://img.shields.io/badge/-Less-000?&logo=Less)
+
 ### Technologies
 
+![Magento](https://img.shields.io/badge/-Magento-000?&logo=Magento)
+![React](https://img.shields.io/badge/-React-000?&logo=React)
+![Node.js](https://img.shields.io/badge/-Node.js-000?&logo=node.js)
+![Laravel](https://img.shields.io/badge/-Laravel-000?&logo=Laravel&logoColor=FFFFFF)
 ![AWS](https://img.shields.io/badge/-AWS-000?&logo=Amazon-AWS&logoColor=FF9900)
 ![Docker](https://img.shields.io/badge/-Docker-000?&logo=Docker)
+![Composer](https://img.shields.io/badge/-Composer-000?&logo=Composer&logoColor=ffffff)
 ![Jira](https://img.shields.io/badge/-Jira-000?&logo=Jira-Software&logoColor=0052CC)
-![Kubernetes](https://img.shields.io/badge/-Kubernetes-000?&logo=Kubernetes)
 ![Linux](https://img.shields.io/badge/-Linux-000?&logo=Linux&logoColor=FCC624)
-![Node.js](https://img.shields.io/badge/-Node.js-000?&logo=node.js)
-![React](https://img.shields.io/badge/-React-000?&logo=React)
