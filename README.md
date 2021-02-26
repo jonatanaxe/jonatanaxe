@@ -20,34 +20,15 @@ Here are some ideas to get you started:
 - 😄 Pronouns: Machado
 - ⚡ Fun fact: Unraveling the unknown
 
-### Languages Experiences:  
+### Languages
+[![JavaScript](https://img.shields.io/badge/-JavaScript-000?&logo=JavaScript&logoColor=ddc508)](https://github.com/adamalston?tab=repositories&q=&type=&language=javascript)
 
-<code><img height="20" src="https://cdn.jsdelivr.net/npm/simple-icons@v1/icons/javascript.svg"></code>
-<code><img height="20" src="https://cdn.jsdelivr.net/npm/simple-icons@v1/icons/nodejs.svg"></code>
-<code><img height="20" src="https://cdn.jsdelivr.net/npm/simple-icons@v1/icons/react.svg"></code>
-<code><img height="20" src="https://cdn.jsdelivr.net/npm/simple-icons@v1/icons/babel.svg"></code>
+### Technologies
 
-<code><img height="20" src="https://cdn.jsdelivr.net/npm/simple-icons@v1/icons/magento.svg"></code>
-<code><img height="20" src="https://cdn.jsdelivr.net/npm/simple-icons@v1/icons/laravel.svg"></code>
-<code><img height="20" src="https://cdn.jsdelivr.net/npm/simple-icons@v1/icons/wordpress.svg"></code>
-<code><img height="20" src="https://cdn.jsdelivr.net/npm/simple-icons@v1/icons/composer.svg"></code>
-<code><img height="20" src="https://cdn.jsdelivr.net/npm/simple-icons@v1/icons/php.svg"></code>
-
-<code><img height="20" src="https://cdn.jsdelivr.net/npm/simple-icons@v1/icons/html5.svg"></code>
-<code><img height="20" src="https://cdn.jsdelivr.net/npm/simple-icons@v1/icons/css3.svg"></code>
-<code><img height="20" src="https://cdn.jsdelivr.net/npm/simple-icons@v1/icons/bootstrap.svg"></code>
-<code><img height="20" src="https://cdn.jsdelivr.net/npm/simple-icons@v1/icons/materialdesign.svg"></code>
-<code><img height="20" src="https://cdn.jsdelivr.net/npm/simple-icons@v1/icons/sass.svg"></code>
-<code><img height="20" src="https://cdn.jsdelivr.net/npm/simple-icons@v1/icons/npm.svg"></code>
-<code><img height="20" src="https://cdn.jsdelivr.net/npm/simple-icons@v1/icons/yarn.svg"></code>
-<code><img height="20" src="https://cdn.jsdelivr.net/npm/simple-icons@v1/icons/gulp.svg"></code>
-
-<code><img height="20" src="https://cdn.jsdelivr.net/npm/simple-icons@v1/icons/ubuntu.svg"></code>
-<code><img height="20" src="https://cdn.jsdelivr.net/npm/simple-icons@v1/icons/docker.svg"></code>
-
-<code><img height="20" src="https://cdn.jsdelivr.net/npm/simple-icons@v1/icons/redis.svg"></code>
-<code><img height="20" src="https://cdn.jsdelivr.net/npm/simple-icons@v1/icons/mysql.svg"></code>
-
-<code><img height="20" src="https://cdn.jsdelivr.net/npm/simple-icons@v1/icons/git.svg"></code>
-<code><img height="20" src="https://cdn.jsdelivr.net/npm/simple-icons@v1/icons/github.svg"></code>
-<code><img height="20" src="https://cdn.jsdelivr.net/npm/simple-icons@v1/icons/gitlab.svg"></code>
+![AWS](https://img.shields.io/badge/-AWS-000?&logo=Amazon-AWS&logoColor=FF9900)
+![Docker](https://img.shields.io/badge/-Docker-000?&logo=Docker)
+![Jira](https://img.shields.io/badge/-Jira-000?&logo=Jira-Software&logoColor=0052CC)
+![Kubernetes](https://img.shields.io/badge/-Kubernetes-000?&logo=Kubernetes)
+![Linux](https://img.shields.io/badge/-Linux-000?&logo=Linux&logoColor=FCC624)
+![Node.js](https://img.shields.io/badge/-Node.js-000?&logo=node.js)
+![React](https://img.shields.io/badge/-React-000?&logo=React)
