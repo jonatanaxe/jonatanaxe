@@ -5,6 +5,7 @@ Jonatan Machado
 Develop Frontend end Backend new project, kill bugs, implement new concepts and technologies 
 to improve code quality, good development practices in Magento 2 end Magento Cloud.
 ```
+Discord https://discord.io/Discorgento
 
 Here are some ideas to get you started:
 
