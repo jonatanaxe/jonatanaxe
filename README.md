@@ -5,7 +5,7 @@ Jonatan Machado
 Develop Frontend end Backend new project, kill bugs, implement new concepts and technologies 
 to improve code quality, good development practices in Magento, React
 ```
-Discord https://discord.io/Discorgento
+We want **YOU** for [our community](https://discord.io/Discorgento);
 
 Here are some ideas to get you started:
 
