@@ -7,6 +7,8 @@ to improve code quality, good development practices in Magento, React
 ```
 We want **YOU** for [our community](https://discord.io/Discorgento);
 
+Podcast: https://discorgento.com/
+
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on [DevEnvDevilbox](https://github.com/Discorgento/DevEnvDevilbox) 
