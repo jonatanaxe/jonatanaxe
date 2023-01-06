@@ -17,7 +17,6 @@ Here are some ideas to get you started:
 - 🤔 I’m looking for help with [DevEnvDevilbox](https://github.com/Discorgento/DevEnvDevilbox)
 - 💬 Ask me about Magento
 - 📫 How to reach me: [discorgento.com](http://discorgento.com/)
-- 😄 Pronouns: Machado
 - ⚡ Fun fact: Unraveling the unknown
 
 ### Languages
