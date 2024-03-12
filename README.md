@@ -2,8 +2,19 @@
 ```
 Jonatan Machado
 
-Co-Host of @discorgento podcast, nurturing the Discorgento tech community
-at https://discorgento.com Proficient in developing frontend and backend projects
+Co-Host of @discorgento podcast, nurturing the Discorgento tech community at https://discorgento.com
+Proficient in developing frontend and backend projects, debugging, and implementing cutting-edge concepts
+and technologies to enhance code quality and adhere to best practices in Magento and React, PHP, JavaScript, Docker, Bash.
+
+With over a decade of experience since 2010 as a Magento developer, specializing in:
+
+Automation
+Frontend and Backend Development
+Magento || Adobe Commerce Cloud
+Updates and Patches
+Audits
+Pipelines
+B2B/B2C/Marketplace solutions
 ```
 We want **YOU** for [our community](https://discord.io/Discorgento);
 
