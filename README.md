@@ -2,7 +2,8 @@
 ```
 Jonatan Machado
 
-Co-Host of @discorgento podcast, nurturing the Discorgento tech community at https://discorgento.com Proficient in developing frontend and backend projects
+Co-Host of @discorgento podcast, nurturing the Discorgento tech community
+at https://discorgento.com Proficient in developing frontend and backend projects
 ```
 We want **YOU** for [our community](https://discord.io/Discorgento);
 
