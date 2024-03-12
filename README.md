@@ -2,8 +2,7 @@
 ```
 Jonatan Machado
 
-Develop Frontend end Backend new project, kill bugs, implement new concepts and technologies 
-to improve code quality, good development practices in Magento, React
+Co-Host of @discorgento podcast, nurturing the Discorgento tech community at https://discorgento.com Proficient in developing frontend and backend projects
 ```
 We want **YOU** for [our community](https://discord.io/Discorgento);
 
