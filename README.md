@@ -22,10 +22,10 @@ Podcast: https://discorgento.com/
 
 Here are some ideas to get you started:
 
-- 🔭 I’m currently working on [DevEnvDevilbox](https://github.com/Discorgento/DevEnvDevilbox) 
+- 🔭 I’m currently working on [discorgento](https://github.com/Discorgento)
 - 🌱 I’m currently learning React
-- 👯 I’m looking to collaborate on  [DevEnvDevilbox](https://github.com/Discorgento/DevEnvDevilbox)
-- 🤔 I’m looking for help with [DevEnvDevilbox](https://github.com/Discorgento/DevEnvDevilbox)
+- 👯 I’m looking to collaborate on  [discorgento](https://github.com/Discorgento/discorgento.com)
+- 🤔 I’m looking for help with [discorgento](https://github.com/Discorgento/discorgento.com)
 - 💬 Ask me about Magento
 - 📫 How to reach me: [discorgento.com](http://discorgento.com/)
 - ⚡ Fun fact: Unraveling the unknown
