@@ -1,55 +1,77 @@
-### Hi there 👋
-```
-Jonatan Machado
 
-Co-Host of @discorgento podcast, nurturing the Discorgento tech community at https://discorgento.com
-Proficient in developing frontend and backend projects, debugging, and implementing cutting-edge concepts
-and technologies to enhance code quality and adhere to best practices in Magento and React, PHP, JavaScript, Docker, Bash.
+# Jonatan Machado
 
-With over a decade of experience since 2010 as a Magento developer, specializing in:
+### Software Engineer · AI Engineering · Commerce Architecture
 
-Automation
-Frontend and Backend Development
-Magento || Adobe Commerce Cloud
-Updates and Patches
-Audits
-Pipelines
-B2B/B2C/Marketplace solutions
-```
-We want **YOU** for [our community](https://discord.io/Discorgento);
+I build software systems, commerce platforms, and AI agents.
 
-Podcast: https://discorgento.com/
+With 15+ years of experience in software development and Magento since 2010, my work spans software architecture, e-commerce, integrations, performance engineering, and DevOps.
 
-Here are some ideas to get you started:
+More recently, I've been focusing on AI engineering, building agents that use tools, follow explicit workflows, and operate within defined security boundaries.
 
-- 🔭 I’m currently working on [discorgento](https://github.com/Discorgento)
-- 🌱 I’m currently learning React
-- 👯 I’m looking to collaborate on  [discorgento](https://github.com/Discorgento/discorgento.com)
-- 🤔 I’m looking for help with [discorgento](https://github.com/Discorgento/discorgento.com)
-- 💬 Ask me about Magento
-- 📫 How to reach me: [discorgento.com](http://discorgento.com/)
-- ⚡ Fun fact: Unraveling the unknown
+I'm also a co-host of [Discorgento](https://discorgento.com), a Brazilian tech community and podcast.
 
-### Languages
-![JavaScript](https://img.shields.io/badge/-JavaScript-000?&logo=JavaScript&logoColor=ddc508)
-![PHP](https://img.shields.io/badge/-PHP-000?&logo=PHP)
-![Sass](https://img.shields.io/badge/-Sass-000?&logo=Sass)
-![Less](https://img.shields.io/badge/-Less-000?&logo=Less)
-![Html5](https://img.shields.io/badge/-Html5-000?&logo=Html5)
+## 🔭 Current Focus
 
-### Technologies
+- AI agent architecture and orchestration
+- LLM integration, tool calling, and MCP
+- AI governance, security, and evaluation
+- Open-source developer tools built with Go
+- Commerce architecture and performance engineering
 
-![Magento](https://img.shields.io/badge/-Magento-000?&logo=Magento)
-![React](https://img.shields.io/badge/-React-000?&logo=React)
-![Node.js](https://img.shields.io/badge/-Node.js-000?&logo=node.js)
-![Npm](https://img.shields.io/badge/-Npm.js-000?&logo=Npm)
-![Yarn](https://img.shields.io/badge/-Yarn-000?&logo=Yarn)
-![Webpack](https://img.shields.io/badge/-Webpack-000?&logo=Webpack)
-![Git](https://img.shields.io/badge/-Git-000?&logo=Git)
-![Redis](https://img.shields.io/badge/-Redis-000?&logo=Redis)
-![Laravel](https://img.shields.io/badge/-Laravel-000?&logo=Laravel&logoColor=FFFFFF)
-![AWS](https://img.shields.io/badge/-AWS-000?&logo=Amazon-AWS&logoColor=FF9900)
-![Docker](https://img.shields.io/badge/-Docker-000?&logo=Docker)
-![Composer](https://img.shields.io/badge/-Composer-000?&logo=Composer&logoColor=ffffff)
-![Jira](https://img.shields.io/badge/-Jira-000?&logo=Jira-Software&logoColor=0052CC)
-![Linux](https://img.shields.io/badge/-Linux-000?&logo=Linux&logoColor=FCC624)
+## 🚀 Featured Project
+
+### [Ouija](https://github.com/discorgento/ouija)
+
+An open-source AI harness for building agents in Go.
+
+Ouija focuses on code-defined agent workflows, controlled tool execution, and explicit security boundaries rather than relying entirely on large prompts.
+
+- **Agent architecture:** reusable engine and code-defined workflows called Totems.
+- **Tool calling & MCP:** connect agents to tools and external systems.
+- **Security & governance:** controlled permissions and human approval for sensitive operations.
+- **Observability:** execution tracing and token budgets.
+- **Evaluation & testing:** golden files, automated tests, and independent verification steps.
+- **Model flexibility:** integrations with multiple LLM providers.
+
+[Explore Ouija →](https://github.com/discorgento/ouija)
+
+## 🧠 Core Expertise
+
+**AI Engineering**
+- LLMs and Generative AI
+- AI Agents and Tool Calling
+- Model Context Protocol (MCP)
+- AI Governance and Guardrails
+- LLM Evaluation (Evals)
+- Human-in-the-Loop Workflows
+- Observability and Cost Control
+
+**Commerce & Software Architecture**
+- Magento 2 / Adobe Commerce
+- PHP and JavaScript
+- REST APIs and GraphQL
+- B2B, B2C, and Marketplace Solutions
+- Performance Optimization and Core Web Vitals
+- Third-Party Integrations
+
+**Infrastructure & DevOps**
+- Go (Golang)
+- Linux and Docker
+- AWS and Cloud Infrastructure
+- CI/CD and Deployment Automation
+- Security Patches and Production Troubleshooting
+
+## 🎙️ Community
+
+I co-host [Discorgento](https://discorgento.com), a Brazilian tech community and podcast focused on software engineering, e-commerce, and emerging technologies.
+
+- Podcast & Community: https://discorgento.com
+- GitHub Projects: https://github.com/jonatanaxe
+- LinkedIn: https://www.linkedin.com/in/jonatanaxe/
+
+## 🤝 Open Source
+
+I'm interested in AI agent architecture, developer tools, software quality, and the intersection between traditional software engineering and AI.
+
+Contributions, technical discussions, and collaboration are welcome.
